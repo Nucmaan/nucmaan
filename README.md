@@ -35,7 +35,6 @@ I specialize in **cloud-native applications, DevOps practices, and scalable soft
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
 
