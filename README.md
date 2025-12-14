@@ -5,7 +5,7 @@
 
 # 👨‍💻 Mohamed Abdihakin Muhumed  
 
-🚀 **DevOps Engineer | Software Developer | Full-Stack Enthusiast**  
+🚀 ** Software Developer | DevOps Engineer | Full-Stack Enthusiast**  
 I specialize in **cloud-native applications, DevOps practices, and scalable software solutions**. With strong experience in **CI/CD, Kubernetes, Docker, and full-stack development**, I aim to deliver robust and secure applications while ensuring smooth deployment workflows.  
 
 ---
@@ -14,7 +14,7 @@ I specialize in **cloud-native applications, DevOps practices, and scalable soft
 - 📍 Based in **Mogadishu, Somalia**  
 - 🎓 **Master of Information Technology (IUKL, Malaysia, GPA 3.51/4.0)**  
 - 🎓 **Bachelor of Software Engineering (DIU, Bangladesh, GPA 3.37/4.0)**  
-- 💼 **DevOps Engineer / Software Developer @ Astan**  
+- 💼 **Software Developer @ Astan**  
 - 🌱 Founder of **[MyHome2U](https://m2u-eight.vercel.app)** – a property rental & sales platform  
 - 🎯 Focus Areas: **Cloud, DevOps, Security, Full-Stack Web & Mobile Development**  
 - 🏆 Achievements: 4th place (DIU TAKE-OFF Programming Contest), 100+ algorithmic problems solved  
