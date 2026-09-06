@@ -15,7 +15,7 @@ I specialize in cloud-native applications, DevOps practices, and scalable softwa
 - 🎓 Master of Information Technology (IUKL, Malaysia, GPA 3.51/4.0) 
 - 🎓 Bachelor of Software Engineering (DIU, Bangladesh, GPA 3.37/4.0) 
 - 💼 Software Developer @ Astan 
-- 🌱 Founder of [MyHome2U](https://m2u-eight.vercel.app) – a property rental & sales platform  
+- 🌱 Founder of [MyHome2U](https://mogadishuhomes.com/) – a property rental & sales platform  
 - 🎯 Focus Areas: Cloud, DevOps, Security, Full-Stack Web & Mobile Development
 - 🏆 Achievements: 4th place (DIU TAKE-OFF Programming Contest), 100+ algorithmic problems solved  
 
